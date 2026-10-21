@@ -1,0 +1,6 @@
+interface:
+  display_name: "Film Director — กำกับหนัง"
+  short_description: "กำกับหนังด้วยบท ภาพอ้างอิง และวงจรตรวจแก้"
+  default_prompt: "ใช้ $film-director ทำหนังตามบรีฟ โดยต่อจากสิ่งที่รับแล้ว ให้ฉันตรวจขั้นที่ยังขาด และตรวจหลักฐานก่อนส่งงาน"
+policy:
+  allow_implicit_invocation: true
